@@ -1,0 +1,82 @@
+source,target,value
+Freshwater Emergent Wetland,Boreal-Laurentian Bog,5
+Freshwater Emergent Wetland,Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,162
+Freshwater Emergent Wetland,Boreal-Laurentian-Acadian Acidic Basin Fen,11
+Freshwater Emergent Wetland,Eastern Cool Temperate Fallow/Idle Cropland,2
+Freshwater Emergent Wetland,Laurentian Jack Pine-Red Pine Forest,1
+Freshwater Emergent Wetland,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,140
+Freshwater Emergent Wetland,Laurentian-Acadian Floodplain Forest,1
+Freshwater Emergent Wetland,Laurentian-Acadian Freshwater Marsh,6
+Freshwater Emergent Wetland,Laurentian-Acadian Northern Hardwoods Forest,94
+Freshwater Emergent Wetland,Laurentian-Acadian Northern Pine Forest,4
+Freshwater Emergent Wetland,Laurentian-Acadian Northern Pine-(Oak) Forest,4
+Freshwater Emergent Wetland,Laurentian-Acadian Pine-Hemlock Forest,48
+Freshwater Emergent Wetland,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,23
+Freshwater Emergent Wetland,Laurentian-Acadian Shrub Swamp,11
+Freshwater Emergent Wetland,Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,64
+Freshwater Emergent Wetland,Laurentian-Acadian Wet Meadow,23
+Freshwater Emergent Wetland,Northern & Central Ruderal Meadow,1
+Freshwater Emergent Wetland,Northern & Central Ruderal Shrubland,3
+Freshwater Emergent Wetland,Open Water,8
+Freshwater Forested/Shrub Wetland,Boreal-Laurentian Bog,37
+Freshwater Forested/Shrub Wetland,Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,905
+Freshwater Forested/Shrub Wetland,Boreal-Laurentian-Acadian Acidic Basin Fen,12
+Freshwater Forested/Shrub Wetland,Eastern Cool Temperate Urban Evergreen Forest,1
+Freshwater Forested/Shrub Wetland,Laurentian Jack Pine-Red Pine Forest,8
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,2147
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Floodplain Forest,5
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Freshwater Marsh,12
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Northern Hardwoods Forest,578
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Northern Pine Forest,22
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Northern Pine-(Oak) Forest,20
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Pine-Hemlock Forest,366
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,111
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Shrub Swamp,24
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Sub-boreal Aspen-Birch Forest,4
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,1
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,325
+Freshwater Forested/Shrub Wetland,Laurentian-Acadian Wet Meadow,13
+Freshwater Forested/Shrub Wetland,Northeastern North American Temperate Forest Plantation,2
+Freshwater Forested/Shrub Wetland,Northern & Central Ruderal Meadow,4
+Freshwater Forested/Shrub Wetland,Northern & Central Ruderal Shrubland,9
+Freshwater Forested/Shrub Wetland,Open Water,3
+Freshwater Pond,Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,22
+Freshwater Pond,Boreal-Laurentian-Acadian Acidic Basin Fen,4
+Freshwater Pond,Laurentian Jack Pine-Red Pine Forest,1
+Freshwater Pond,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,2
+Freshwater Pond,Laurentian-Acadian Freshwater Marsh,15
+Freshwater Pond,Laurentian-Acadian Northern Hardwoods Forest,3
+Freshwater Pond,Laurentian-Acadian Northern Pine Forest,1
+Freshwater Pond,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,3
+Freshwater Pond,Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,57
+Freshwater Pond,Laurentian-Acadian Wet Meadow,2
+Freshwater Pond,Northeastern North American Temperate Forest Plantation,2
+Freshwater Pond,Northern & Central Ruderal Meadow,11
+Freshwater Pond,Northern & Central Ruderal Shrubland,1
+Freshwater Pond,Open Water,94
+Lake,Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,54
+Lake,Boreal-Laurentian-Acadian Acidic Basin Fen,1
+Lake,Laurentian Jack Pine-Red Pine Forest,19
+Lake,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,4
+Lake,Laurentian-Acadian Freshwater Marsh,8
+Lake,Laurentian-Acadian Hardwood Forest,1
+Lake,Laurentian-Acadian Northern Hardwoods Forest,11
+Lake,Laurentian-Acadian Northern Pine Forest,1
+Lake,Laurentian-Acadian Northern Pine-(Oak) Forest,3
+Lake,Laurentian-Acadian Pine-Hemlock Forest,19
+Lake,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,15
+Lake,Laurentian-Acadian Shrub Swamp,2
+Lake,Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,269
+Lake,Northeastern North American Temperate Forest Plantation,7
+Lake,Northern & Central Ruderal Meadow,2
+Lake,Northern & Central Ruderal Shrubland,1
+Lake,Open Water,1015
+Riverine,Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,4
+Riverine,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,11
+Riverine,Laurentian-Acadian Northern Hardwoods Forest,51
+Riverine,Laurentian-Acadian Northern Pine-(Oak) Forest,1
+Riverine,Laurentian-Acadian Pine-Hemlock Forest,9
+Riverine,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,10
+Riverine,Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,7
+Riverine,Laurentian-Acadian Wet Meadow,1
+Riverine,Northern & Central Ruderal Shrubland,1
