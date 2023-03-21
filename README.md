@@ -1,4 +1,4 @@
-# ResearchIteration1
+# LandFire NWI McCormick Tract
 
 Data and Code for GC 488 Earth/Environmental Research.
 
